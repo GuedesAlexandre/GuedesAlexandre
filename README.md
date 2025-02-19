@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Alexandre Guedes<br>🔭 I’m currently studying Science Computing<br>🌱 I’m currently learning Software Engineering<br>💞️ I’m looking to collaborate on everything.<br>📫 How to reach me, alexandreguedes77600@gmail.com
+👋 Hi, I’m Alexandre Guedes<br>🔭 I’m currently studying Science Computing<br>🌱 I’m currently learning about Software Engineering<br>💞️ I’m looking to collaborate on everything.<br>📫 How to reach me, alexandreguedes77600@gmail.com
 
 ## 🌐 Socials:
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-guedesmmi/)
