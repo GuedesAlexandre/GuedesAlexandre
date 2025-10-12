@@ -5,7 +5,7 @@
 ### 🚀 Passionate Software Engineer Apprentice from France
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
