@@ -51,15 +51,6 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuedesAlexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesAlexandre&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuedesAlexandre&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
 ## 🏆 GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=GuedesAlexandre&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
