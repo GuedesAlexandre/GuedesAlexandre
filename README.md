@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdna.artstation.com/p/assets/images/images/053/135/898/original/pixel-jess-sariaslays-start-scene.gif?1661497315" alt="Dark Souls Banner" width="800"/>
+<img src="[https://cdna.artstation.com/p/assets/images/images/053/135/898/original/pixel-jess-sariaslays-start-scene.gif?1661497315](https://i.redd.it/of4lvkwi2maa1.gif)" alt="Dark Souls Banner" width="800"/>
 
 # Alexandre Guedes
 
