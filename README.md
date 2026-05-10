@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8f/38/ab/8f38ab8eeadb926c788a4d17ec3321fc.gif" alt="Dark Souls Banner" width="500"/>
+<img src="https://i.pinimg.com/originals/8f/38/ab/8f38ab8eeadb926c788a4d17ec3321fc.gif" alt="Dark Souls Banner"  height="300" width="1000"/>
 
 # Alexandre Guedes
 
