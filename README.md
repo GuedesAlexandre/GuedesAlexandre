@@ -1,24 +1,39 @@
 <!-- Généré par scripts/github-profile.mjs depuis le dépôt du portfolio : ne pas modifier à la main. -->
 <div align="center">
 
-<a href="https://www.alexandreguedes.dev"><img src="assets/entete.svg" width="100%" alt="Alexandre Guedes. Software engineering apprentice · BPCE SI &amp; ESIEE Paris. Apprentice software engineer. I build tools that make technology a pleasure to pick up."></a>
+<a href="https://www.alexandreguedes.dev"><img src="assets/banner.svg" alt="Alexandre Guedes" width="1000"/></a>
 
-<a href="https://www.alexandreguedes.dev"><b>alexandreguedes.dev</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alexandre-guedesmmi/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:alexandreguedes77600@gmail.com">alexandreguedes77600@gmail.com</a>
+# Alexandre Guedes
 
-<br>
+**Software Engineering Student** | **Full Stack Developer**
 
-<img src="assets/manifeste.svg" width="100%" alt="I care about building things that will still be useful tomorrow. Not to shine for the length of a demo: for the people who will actually use them.">
+[![Portfolio](https://img.shields.io/badge/-Portfolio-cf2a25?style=flat-square&logo=googlechrome&logoColor=f3efe7)](https://www.alexandreguedes.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-cf2a25?style=flat-square&logo=linkedin&logoColor=f3efe7)](https://www.linkedin.com/in/alexandre-guedesmmi/)
+[![Email](https://img.shields.io/badge/-Email-cf2a25?style=flat-square&logo=gmail&logoColor=f3efe7)](mailto:alexandreguedes77600@gmail.com)
 
-<a href="https://www.alexandreguedes.dev/#kelp"><img src="assets/projet-kelp.svg" width="49%" alt="Kelp — Personal project · in progress. Run Kubernetes without ever touching kubectl or YAML. You create containers in a visual interface, wire them together by pulling cables, and Kelp sets up the cluster, namespaces and deployments behind the scenes. Stack: Spring Boot, Fabric8, docker-java, WebSocket, DDD."></a>
-<a href="https://www.alexandreguedes.dev/#movierecom"><img src="assets/projet-movierecom.svg" width="49%" alt="MovieRecom — ESIEE Paris · pair project. An “evening advisor”: instead of scrolling through a catalogue, you describe what you feel like and a local LLM negotiates with you on the film to watch. Stack: Helidon SE, jOOQ, SQLite, Svelte, Qwen2.5-7B."></a>
+---
 
-<a href="https://github.com/GuedesAlexandre/Azathro"><img src="assets/projet-azathro.svg" width="49%" alt="Azathro — Personal project · game. A lite version of Balatro, the roguelike card game, rebuilt from scratch in Java with a Lovecraftian atmosphere. Stack: Java, sealed interfaces, records, Zen."></a>
-<a href="https://github.com/GuedesAlexandre/Projet_Multidisciplinaire_S2"><img src="assets/projet-deserts.svg" width="49%" alt="Medical deserts — ESIEE Paris · multidisciplinary project · team. Where should France build its hospitals? A genetic algorithm written in C picks, among the 34,437 communes of mainland France, where to put hospitals so that everyone has one within 10 km, at the lowest cost. Stack: C, MLV, Python, GeoJSON."></a>
+## Tech Stack
 
-<img src="assets/parcours.svg" width="100%" alt="Journey, stack and the rest">
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-f3efe7?style=flat-square&logo=typescript&logoColor=161513)
+![Angular](https://img.shields.io/badge/-Angular-f3efe7?style=flat-square&logo=angular&logoColor=161513)
+![Vue.js](https://img.shields.io/badge/-Vue.js-f3efe7?style=flat-square&logo=vuedotjs&logoColor=161513)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-f3efe7?style=flat-square&logo=nuxt&logoColor=161513)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-f3efe7?style=flat-square&logo=tailwindcss&logoColor=161513)
 
-<a href="https://www.alexandreguedes.dev/#contact"><img src="assets/contact.svg" width="100%" alt="Say hello"></a>
+**Backend**  
+![Java](https://img.shields.io/badge/-Java-f3efe7?style=flat-square&logo=openjdk&logoColor=161513)
+![Spring](https://img.shields.io/badge/-Spring-f3efe7?style=flat-square&logo=spring&logoColor=161513)
+![NestJS](https://img.shields.io/badge/-NestJS-f3efe7?style=flat-square&logo=nestjs&logoColor=161513)
 
-<a href="https://www.alexandreguedes.dev"><b>alexandreguedes.dev</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alexandre-guedesmmi/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:alexandreguedes77600@gmail.com">alexandreguedes77600@gmail.com</a>
+**Database & Tools**  
+![MySQL](https://img.shields.io/badge/-MySQL-f3efe7?style=flat-square&logo=mysql&logoColor=161513)
+![Git](https://img.shields.io/badge/-Git-f3efe7?style=flat-square&logo=git&logoColor=161513)
+![Figma](https://img.shields.io/badge/-Figma-f3efe7?style=flat-square&logo=figma&logoColor=161513)
+
+---
+
+<img src="assets/quote.svg" alt="“Don’t you dare go Hollow”" width="1000"/>
 
 </div>
