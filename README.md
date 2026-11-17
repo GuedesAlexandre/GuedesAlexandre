@@ -1,37 +1,24 @@
+<!-- Généré par scripts/github-profile.mjs depuis le dépôt du portfolio : ne pas modifier à la main. -->
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8f/38/ab/8f38ab8eeadb926c788a4d17ec3321fc.gif" alt="Dark Souls Banner"  height="300" width="1000"/>
+<a href="https://www.alexandreguedes.dev"><img src="assets/entete.svg" width="100%" alt="Alexandre Guedes. Software engineering apprentice · BPCE SI &amp; ESIEE Paris. Apprentice software engineer. I build tools that make technology a pleasure to pick up."></a>
 
-# Alexandre Guedes
+<a href="https://www.alexandreguedes.dev"><b>alexandreguedes.dev</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alexandre-guedesmmi/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:alexandreguedes77600@gmail.com">alexandreguedes77600@gmail.com</a>
 
-**Software Engineering Student** | **Full Stack Developer**
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-guedesmmi/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alexandreguedes77600@gmail.com)
+<img src="assets/manifeste.svg" width="100%" alt="I care about building things that will still be useful tomorrow. Not to shine for the length of a demo: for the people who will actually use them.">
 
----
+<a href="https://www.alexandreguedes.dev/#kelp"><img src="assets/projet-kelp.svg" width="49%" alt="Kelp — Personal project · in progress. Run Kubernetes without ever touching kubectl or YAML. You create containers in a visual interface, wire them together by pulling cables, and Kelp sets up the cluster, namespaces and deployments behind the scenes. Stack: Spring Boot, Fabric8, docker-java, WebSocket, DDD."></a>
+<a href="https://www.alexandreguedes.dev/#movierecom"><img src="assets/projet-movierecom.svg" width="49%" alt="MovieRecom — ESIEE Paris · pair project. An “evening advisor”: instead of scrolling through a catalogue, you describe what you feel like and a local LLM negotiates with you on the film to watch. Stack: Helidon SE, jOOQ, SQLite, Svelte, Qwen2.5-7B."></a>
 
-## ⚔️ Tech Stack
+<a href="https://github.com/GuedesAlexandre/Azathro"><img src="assets/projet-azathro.svg" width="49%" alt="Azathro — Personal project · game. A lite version of Balatro, the roguelike card game, rebuilt from scratch in Java with a Lovecraftian atmosphere. Stack: Java, sealed interfaces, records, Zen."></a>
+<a href="https://github.com/GuedesAlexandre/Projet_Multidisciplinaire_S2"><img src="assets/projet-deserts.svg" width="49%" alt="Medical deserts — ESIEE Paris · multidisciplinary project · team. Where should France build its hospitals? A genetic algorithm written in C picks, among the 34,437 communes of mainland France, where to put hospitals so that everyone has one within 10 km, at the lowest cost. Stack: C, MLV, Python, GeoJSON."></a>
 
-**Frontend**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<img src="assets/parcours.svg" width="100%" alt="Journey, stack and the rest">
 
-**Backend**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+<a href="https://www.alexandreguedes.dev/#contact"><img src="assets/contact.svg" width="100%" alt="Say hello"></a>
 
-**Database & Tools**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-*"Don't you dare go Hollow"* 🔥
+<a href="https://www.alexandreguedes.dev"><b>alexandreguedes.dev</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alexandre-guedesmmi/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:alexandreguedes77600@gmail.com">alexandreguedes77600@gmail.com</a>
 
 </div>
